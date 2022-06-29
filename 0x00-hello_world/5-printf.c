@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * function prints hello world
+ *main -  function prints hello world
  *yeap
+ *return: always 0 success
  */
 int main(void)
 {
