@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main -  function prints hello world
+ *main-  function prints hello world
  *yeap
- *return - always (0) success
+ *return(0)- always (0) success
  *printf : prints the statement
  */
 int main(void)
