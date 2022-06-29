@@ -2,7 +2,7 @@
 /**
  *main-  function prints hello world
  *yeap
- *return(0)- always (0) success
+ *Return: 0 if exited alwys; otherwise other numbers
  *printf : prints the statement
  */
 int main(void)
