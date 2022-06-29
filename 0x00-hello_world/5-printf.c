@@ -3,7 +3,7 @@
  *main -  function prints hello world
  *yeap
  *Return : always (0) success
- *printf - prints the statement
+ *printf : prints the statement
  */
 int main(void)
 {
