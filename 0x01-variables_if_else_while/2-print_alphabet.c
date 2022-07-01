@@ -3,7 +3,6 @@
  *main -> prints alphabeths
  *Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int ch;
@@ -13,6 +12,6 @@ int main(void)
 		putchar(ch);
 	}
 	putchar(10);
-	
+
 	return (0);
 }
