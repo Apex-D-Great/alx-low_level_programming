@@ -1,1 +1,1 @@
-# this all about static libraries
+statuc library task
